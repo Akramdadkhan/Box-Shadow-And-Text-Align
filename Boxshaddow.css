@@ -1,0 +1,8 @@
+.boxshadow {
+  width: 400px;
+  height: 400px;
+  background-color: aqua;
+  box-shadow: black 5px 5px 5px, -5px -5px 5px;
+  inset yellow 5px 5px 5px;
+  /* box-shadow: inset darkred 4px 4px 4px, inset -4px -4px 4px; */
+}

@@ -1,0 +1,44 @@
+.first {
+  background-color: rgb(175, 199, 133);
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.second {
+  background-color: rgb(142, 156, 117);
+  text-align: right;
+  text-transform: lowercase;
+}
+
+.third {
+  background-color: rgb(228, 238, 210);
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.para {
+  text-indent: 5px;
+  word-spacing: 10px;
+  /* letter-spacing: 20px; */
+  line-height: 1.5;
+}
+
+.input {
+  width: 160px;
+  height: 30px;
+  background-color: aqua;
+  border-radius: 10px;
+  color: rgb(100, 9, 9);
+  box-shadow: chartreuse -3px -3px 2px;
+}
+
+.button {
+  background-color: rgb(163, 102, 31);
+  padding: 10px 10px;
+  border-radius: 8px;
+  border: none;
+  color: aquamarine;
+  font-size: 18px;
+  box-shadow: black 3px 3px 2px;
+  margin-left: 2px;
+}

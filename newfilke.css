@@ -1,0 +1,16 @@
+.first {
+  float: left;
+  width: 30%;
+  height: 400px;
+  background-color: chartreuse;
+}
+
+.second {
+  float: left;
+  width: 40%;
+  height: 400px;
+  background-color: rgb(56, 26, 5);
+}
+
+.third {
+}
